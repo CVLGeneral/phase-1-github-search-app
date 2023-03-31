@@ -11,3 +11,12 @@
 ul {
   list-style: none;
 }
+ul:hover{
+  color: #ff7b29;
+
+}
+a{
+  display: flex;
+  margin-top: 20px;
+
+}
